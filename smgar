@@ -5,6 +5,14 @@
   "author": "We qi bibi",
   "cover": "https://imgur.com/saSN6sA.jpg",
   "chapters": {
+  "70": {
+      "title": "الفصل 70",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/ML5GiNI/"
+      },
+      "last_updated": "1616368746"
+    },
   "69": {
       "title": "الفصل 69",
       "volume": "الموسم الأول",
